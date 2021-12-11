@@ -40,3 +40,19 @@ npx react-native run-android
 <h3 align="center"> Food Delivery Service Screens </h3>
 
 ![welcome](https://github.com/Mindula-Dilthushan/Ax-Food-Delivery-Service/blob/master/src/assets/screens/Welcome-Screen.png)
+
+
+
+
+
+
+---
+
+## License
+[MIT License]() © Mindula Dilthushan Manamperi
+
+## Contact
+
+[Email]() : minduladilthushan1@gmail.com <br>
+[FaceBook](https://www.facebook.com/minduladilthushan.manamperi) : Mindula Dilthushan Manamperi <br>
+[WhatsApp]() : +94 741900680
