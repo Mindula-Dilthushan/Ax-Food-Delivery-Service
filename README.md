@@ -1,6 +1,5 @@
 <h1 align="center">Ax Food Delivery Service</h1>
-
----
+<p align="center"> This is a Food Delivery Mobile Application build using  𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 💙 </p>
 
 ## Installation
 
