@@ -3,7 +3,7 @@
 *.aar
 *.ap_
 *.aab
-
+node_modules
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -37,6 +37,7 @@ proguard/
 captures/
 
 # IntelliJ
+.idea
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
