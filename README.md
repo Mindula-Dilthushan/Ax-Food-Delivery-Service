@@ -1,8 +1,8 @@
-# Ax Food Delivery Service
+<h1 align="center">Ax Food Delivery Service</h1>
 
 ---
 
-## Project Installation
+## Installation
 
 1. Clone this repository
 
