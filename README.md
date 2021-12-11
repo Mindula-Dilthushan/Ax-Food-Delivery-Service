@@ -49,10 +49,10 @@ npx react-native run-android
 ---
 
 ## License
-[MIT License]() © Mindula Dilthushan Manamperi
+[MIT License](https://github.com/Mindula-Dilthushan/Ax-Food-Delivery-Service/blob/master/LICENSE) © Mindula Dilthushan Manamperi
 
 ## Contact
 
-[Email]() : minduladilthushan1@gmail.com <br>
+[Email](https://github.com/Mindula-Dilthushan/Ax-Food-Delivery-Service) : minduladilthushan1@gmail.com <br>
 [FaceBook](https://www.facebook.com/minduladilthushan.manamperi) : Mindula Dilthushan Manamperi <br>
-[WhatsApp]() : +94 741900680
+[WhatsApp](https://github.com/Mindula-Dilthushan/Ax-Food-Delivery-Service) : +94 741900680
